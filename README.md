@@ -230,23 +230,6 @@ Median Wait List = MEDIAN('All_Data'[Total])
 
 ---
 
-## 💬 Interview Talking Points
-
-**Q: Walk me through your project.**
-
-> "I built an end-to-end Power BI dashboard analyzing 24.64 million healthcare waiting list records across Ireland from 2018 to 2021. I ingested 8 CSV files, cleaned and appended them using Power Query, built a star schema model, and created DAX measures for KPIs like YoY comparison. The dashboard revealed that the latest month had 709K patients waiting — a 10.8% jump from the prior year — and that Orthopaedics alone had 84,856 patients in March 2021, with 14,378 waiting over 18 months. Outpatient demand rose 20% over the period while inpatient stayed flat, pointing to a primary care gap."
-
----
-
-## 📎 Resume Bullet Points
-
-> - Built a 3-page interactive Power BI dashboard analyzing **24.64M healthcare waiting list records** (2018–2021) across inpatient, outpatient, and day case categories
-> - Identified a **10.8% YoY increase** (640K → 709K) in patient waiting lists using DAX-based KPI measures and time intelligence functions
-> - Revealed **Orthopaedics as the top bottleneck** with 84,856 patients and 14,378 waiting 18+ months, enabling targeted resource planning recommendations
-> - Designed drill-down grid view enabling filtering by specialty, age group, and time band across **6+ specialties and 4 years** of data
-> - Discovered **outpatient demand grew 20%** (0.5M → 0.6M/month) while inpatient stayed flat, supporting evidence-based primary care policy decisions
-
----
 
 ## 👨‍💻 Author
 
